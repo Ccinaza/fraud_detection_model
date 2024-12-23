@@ -24,7 +24,7 @@ This repository contains a fraud detection system designed to identify and adapt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Ccinaza/fraud_detection_model.git
+   git clone https://github.com/Ccinaza/fraud_detection_model.git
    cd fraud_detection_model
    ```
 
